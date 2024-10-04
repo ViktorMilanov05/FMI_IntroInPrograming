@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Week1">
+      <UniqueIdentifier>{43a9a0b5-e015-494c-9fac-68b758a58678}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week2">
+      <UniqueIdentifier>{f5525643-c38c-4911-b855-8d2536bdc3af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week3">
+      <UniqueIdentifier>{84c669e6-89ef-40ae-a5c8-5abccc4bebf8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week4">
+      <UniqueIdentifier>{dfb8d9c2-9dbe-4705-bbf7-13114aca3c0e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week5">
+      <UniqueIdentifier>{67848908-cd37-4d31-95a5-5d7759e06676}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week6">
+      <UniqueIdentifier>{0c824686-0cdf-4ec4-a846-3ae4a95f6974}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week7">
+      <UniqueIdentifier>{2150b282-5926-4da4-ae1e-123e172987ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week8">
+      <UniqueIdentifier>{0679287c-8427-435f-b620-a388d3a28c1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week9">
+      <UniqueIdentifier>{79572e47-a89b-466f-aa59-d55c89f50151}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week10">
+      <UniqueIdentifier>{cf94993a-5cb6-4581-b543-88499428330f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week11">
+      <UniqueIdentifier>{835de806-ef43-4252-bf74-cde503cd5d01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week12">
+      <UniqueIdentifier>{37303196-713d-4d5e-8ee1-e2413482188c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week13">
+      <UniqueIdentifier>{207fdff7-7aad-4b71-8069-6991cb36fd71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week14">
+      <UniqueIdentifier>{f7375962-546c-43ad-b7b1-3a8e7890c1a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week15">
+      <UniqueIdentifier>{efeb5047-d15c-467c-bc8f-f32ef09dce0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Exam">
+      <UniqueIdentifier>{23eaf186-bd6b-4fdf-b7f9-35e53142c67c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FindBiggerWithoutIf.cpp">
+      <Filter>Source Files\Week1</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>Source Files\Week2</Filter>
+    </ClCompile>
+    <ClCompile Include="LCM.cpp">
+      <Filter>Source Files\Week3</Filter>
+    </ClCompile>
+    <ClCompile Include="NOD.cpp">
+      <Filter>Source Files\Week3</Filter>
+    </ClCompile>
+    <ClCompile Include="isPrime.cpp">
+      <Filter>Source Files\Week3</Filter>
+    </ClCompile>
+    <ClCompile Include="ProstiMnoziteli.cpp">
+      <Filter>Source Files\Week3</Filter>
+    </ClCompile>
+    <ClCompile Include="MostDigitOccur.cpp">
+      <Filter>Source Files\Week3</Filter>
+    </ClCompile>
+    <ClCompile Include="allFunc.cpp">
+      <Filter>Source Files\Week4</Filter>
+    </ClCompile>
+    <ClCompile Include="MinMax.cpp">
+      <Filter>Source Files\Week5</Filter>
+    </ClCompile>
+    <ClCompile Include="BullsAndCows.cpp">
+      <Filter>Source Files\Week5</Filter>
+    </ClCompile>
+    <ClCompile Include="binarySearch.cpp">
+      <Filter>Source Files\Week6</Filter>
+    </ClCompile>
+    <ClCompile Include="gcd4.cpp">
+      <Filter>Source Files\Week6</Filter>
+    </ClCompile>
+    <ClCompile Include="reverse.cpp">
+      <Filter>Source Files\Week6</Filter>
+    </ClCompile>
+    <ClCompile Include="sieveEratosten.cpp">
+      <Filter>Source Files\Week6</Filter>
+    </ClCompile>
+    <ClCompile Include="fromBinaryToDecimal.cpp">
+      <Filter>Source Files\Week7</Filter>
+    </ClCompile>
+    <ClCompile Include="fromDecimalToBinary.cpp">
+      <Filter>Source Files\Week7</Filter>
+    </ClCompile>
+    <ClCompile Include="FromRandomToRandom.cpp">
+      <Filter>Source Files\Week7</Filter>
+    </ClCompile>
+    <ClCompile Include="bitOperation.cpp">
+      <Filter>Source Files\Week8</Filter>
+    </ClCompile>
+    <ClCompile Include="Gauss.cpp">
+      <Filter>Source Files\Week9</Filter>
+    </ClCompile>
+    <ClCompile Include="tictactoe.cpp">
+      <Filter>Source Files\Week9</Filter>
+    </ClCompile>
+    <ClCompile Include="BasicStringFunc.cpp">
+      <Filter>Source Files\Week10</Filter>
+    </ClCompile>
+    <ClCompile Include="numberToStr.cpp">
+      <Filter>Source Files\Week10</Filter>
+    </ClCompile>
+    <ClCompile Include="searchInText.cpp">
+      <Filter>Source Files\Week10</Filter>
+    </ClCompile>
+    <ClCompile Include="strToNumber.cpp">
+      <Filter>Source Files\Week10</Filter>
+    </ClCompile>
+    <ClCompile Include="censoreNumbers.cpp">
+      <Filter>Source Files\Week11</Filter>
+    </ClCompile>
+    <ClCompile Include="LowerAndUpper.cpp">
+      <Filter>Source Files\Week11</Filter>
+    </ClCompile>
+    <ClCompile Include="sortTwoSortedArrays.cpp">
+      <Filter>Source Files\Week11</Filter>
+    </ClCompile>
+    <ClCompile Include="sortLower.cpp">
+      <Filter>Source Files\Week11</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerStatistics.cpp">
+      <Filter>Source Files\Week12</Filter>
+    </ClCompile>
+    <ClCompile Include="tokenize.cpp">
+      <Filter>Source Files\Week12</Filter>
+    </ClCompile>
+    <ClCompile Include="splitString.cpp">
+      <Filter>Source Files\Week12</Filter>
+    </ClCompile>
+    <ClCompile Include="Sorts.cpp">
+      <Filter>Source Files\Week13</Filter>
+    </ClCompile>
+    <ClCompile Include="fact.cpp">
+      <Filter>Source Files\Week14</Filter>
+    </ClCompile>
+    <ClCompile Include="powers.cpp">
+      <Filter>Source Files\Week14</Filter>
+    </ClCompile>
+    <ClCompile Include="fibb.cpp">
+      <Filter>Source Files\Week14</Filter>
+    </ClCompile>
+    <ClCompile Include="sumArr.cpp">
+      <Filter>Source Files\Week14</Filter>
+    </ClCompile>
+    <ClCompile Include="search.cpp">
+      <Filter>Source Files\Week14</Filter>
+    </ClCompile>
+    <ClCompile Include="isPalindrome.cpp">
+      <Filter>Source Files\Week14</Filter>
+    </ClCompile>
+    <ClCompile Include="containsInText.cpp">
+      <Filter>Source Files\Week14</Filter>
+    </ClCompile>
+    <ClCompile Include="upperAndLowerRec.cpp">
+      <Filter>Source Files\Week14</Filter>
+    </ClCompile>
+    <ClCompile Include="maxInArr.cpp">
+      <Filter>Source Files\Week14</Filter>
+    </ClCompile>
+    <ClCompile Include="sumNumbers.cpp">
+      <Filter>Source Files\Week15</Filter>
+    </ClCompile>
+    <ClCompile Include="fibbMem.cpp">
+      <Filter>Source Files\Week15</Filter>
+    </ClCompile>
+    <ClCompile Include="minOperation.cpp">
+      <Filter>Source Files\Week15</Filter>
+    </ClCompile>
+    <ClCompile Include="backtracking.cpp">
+      <Filter>Source Files\Week15</Filter>
+    </ClCompile>
+    <ClCompile Include="first.cpp">
+      <Filter>Source Files\Exam</Filter>
+    </ClCompile>
+    <ClCompile Include="second.cpp">
+      <Filter>Source Files\Exam</Filter>
+    </ClCompile>
+    <ClCompile Include="thirt.cpp">
+      <Filter>Source Files\Exam</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

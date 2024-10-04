@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikto\\source\\repos\\UP-Exam Prep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99793DB9-269A-4F5C-AAF7-48B578A5948F}|UP-Exam Prep\\UP-Exam Prep.vcxproj|C:\\Users\\vikto\\source\\repos\\UP-Exam Prep\\UP-Exam Prep\\thirt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99793DB9-269A-4F5C-AAF7-48B578A5948F}|UP-Exam Prep\\UP-Exam Prep.vcxproj|solutionrelative:UP-Exam Prep\\thirt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99793DB9-269A-4F5C-AAF7-48B578A5948F}|UP-Exam Prep\\UP-Exam Prep.vcxproj|C:\\Users\\vikto\\source\\repos\\UP-Exam Prep\\UP-Exam Prep\\second.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99793DB9-269A-4F5C-AAF7-48B578A5948F}|UP-Exam Prep\\UP-Exam Prep.vcxproj|solutionrelative:UP-Exam Prep\\second.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99793DB9-269A-4F5C-AAF7-48B578A5948F}|UP-Exam Prep\\UP-Exam Prep.vcxproj|C:\\Users\\vikto\\source\\repos\\UP-Exam Prep\\UP-Exam Prep\\first.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{99793DB9-269A-4F5C-AAF7-48B578A5948F}|UP-Exam Prep\\UP-Exam Prep.vcxproj|solutionrelative:UP-Exam Prep\\first.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 562,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "thirt.cpp",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\UP-Exam Prep\\UP-Exam Prep\\thirt.cpp",
+              "RelativeDocumentMoniker": "UP-Exam Prep\\thirt.cpp",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\UP-Exam Prep\\UP-Exam Prep\\thirt.cpp",
+              "RelativeToolTip": "UP-Exam Prep\\thirt.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-26T14:28:21.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "second.cpp",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\UP-Exam Prep\\UP-Exam Prep\\second.cpp",
+              "RelativeDocumentMoniker": "UP-Exam Prep\\second.cpp",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\UP-Exam Prep\\UP-Exam Prep\\second.cpp",
+              "RelativeToolTip": "UP-Exam Prep\\second.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-26T14:25:54.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "first.cpp",
+              "DocumentMoniker": "C:\\Users\\vikto\\source\\repos\\UP-Exam Prep\\UP-Exam Prep\\first.cpp",
+              "RelativeDocumentMoniker": "UP-Exam Prep\\first.cpp",
+              "ToolTip": "C:\\Users\\vikto\\source\\repos\\UP-Exam Prep\\UP-Exam Prep\\first.cpp",
+              "RelativeToolTip": "UP-Exam Prep\\first.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-26T14:22:37.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

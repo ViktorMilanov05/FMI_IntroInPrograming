@@ -1,0 +1,4 @@
+﻿  thirt.cpp
+C:\Users\vikto\source\repos\UP-Exam Prep\UP-Exam Prep\thirt.cpp(56,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vikto\source\repos\UP-Exam Prep\UP-Exam Prep\thirt.cpp(60,14): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  UP-Exam Prep.vcxproj -> C:\Users\vikto\source\repos\UP-Exam Prep\x64\Debug\UP-Exam Prep.exe
